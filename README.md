@@ -4,7 +4,7 @@
 
 ### *A Pixel-Perfect, High-Performance macOS Operating System in the Browser*
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-nayon--halder--portfolio.vercel.app-0071e3?style=for-the-badge&logo=safari&logoColor=white)](https://nayon-halder-portfolio.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-nayon--halder--portfolio.vercel.app-0071e3?style=for-the-badge&logo=safari&logoColor=white)](https://nayon-halder-os.vercel.app)
 [![GitHub Stars](https://img.shields.io/github/stars/nrbnayon/macOS-portfolio-overview?style=for-the-badge&logo=github&color=f5a623)](https://github.com/nrbnayon/macOS-portfolio-overview)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
@@ -23,7 +23,7 @@
   Explore an authentic desktop interface featuring multi-window layering, physics-driven magnification Dock, Spotlight search, native apps, live REST APIs, and an AI chat assistant.
 </p>
 
-[🖥️ View Live Demo](https://nayon-halder-portfolio.vercel.app) • [🚀 Report Bug](https://github.com/nrbnayon/macOS-portfolio-overview/issues) • [✨ Request Feature](https://github.com/nrbnayon/macOS-portfolio-overview/issues)
+[🖥️ View Live Demo](https://nayon-halder-os.vercel.app) • [🚀 Report Bug](https://github.com/nrbnayon/macOS-portfolio-overview/issues) • [✨ Request Feature](https://github.com/nrbnayon/macOS-portfolio-overview/issues)
 
 </div>
 
@@ -200,7 +200,7 @@ If you enjoy this project or find it helpful for your own desktop-in-browser app
 **Nayon Kanti Halder**  
 *Senior Full Stack & Mobile Software Engineer*
 
-- 🌐 **Portfolio**: [nayon-halder-portfolio.vercel.app](https://nayon-halder-portfolio.vercel.app)
+- 🌐 **Portfolio**: [nayon-halder-portfolio.vercel.app](https://nayon-halder-os.vercel.app)
 - 📧 **Email**: [nrbnayon@gmail.com](mailto:nrbnayon@gmail.com)
 - 💼 **LinkedIn**: [linkedin.com/in/itsnayon](https://www.linkedin.com/in/itsnayon)
 - 🐙 **GitHub**: [github.com/nrbnayon](https://github.com/nrbnayon)
